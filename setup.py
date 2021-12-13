@@ -19,7 +19,7 @@ setup(
     description="Read the latest Real Python tutorials",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/nickagee/urban-doodle",
     author="Real Python",
     author_email="info@realpython.com",
     license="MIT",
